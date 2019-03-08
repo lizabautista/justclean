@@ -96,7 +96,7 @@ a:hover {
 a.move-top {
     width: 34px;
     height: 34px;
-    background: url(../images/move-top.png) no-repeat 0px 0px;
+    background: url(move-top.png) no-repeat 0px 0px;
     display: inline-block;
 }
 
@@ -512,7 +512,7 @@ li>a:only-child:after {
 
 /* banner style */
 .main-banner {
-    background: url(../images/new_splash.png) no-repeat center;
+    background: url(new_splash.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -577,7 +577,7 @@ p.para-text {
 
 /* middle */
 .middle-info {
-    background: url(../images/bg2.jpg) no-repeat center;
+    background: url(bg2.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -834,7 +834,7 @@ form.register-wthree .form-control {
 
 /* testimonials */
 .testimonials {
-    background: url(../images/bg1.jpg) no-repeat center;
+    background: url(bg1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
